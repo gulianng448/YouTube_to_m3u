@@ -2,13 +2,13 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-凤凰资讯  |youtube||
-https://www.youtube.com/watch?v=uLBwH73wlg
+凤凰资讯  |youtube|https://live.fanmingming.com/tv/凤凰资讯.png|
+https://www.youtube.com/watch?v=HFib76ySpbU
 
-中天新闻 |youtube||
+中天新闻台 |youtube|https://live.fanmingming.com/tv/中天新闻台.png|
 https://www.youtube.com/watch?v=oIgbl7t0S_w
 
-TVBS |youtube||
+新聞大白話 |youtube||
 https://www.youtube.com/watch?v=wKjmzDluhLw
 
 TVBS新聞 |youtube||
@@ -17,9 +17,6 @@ https://www.youtube.com/watch?v=m_dhMSvUCIc
 台視新聞台 |youtube||
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
-三立新聞台 |youtube||
-https://www.youtube.com/watch?v=FoBfXvlOR6I
-
 中視新聞 |youtube||
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
@@ -27,8 +24,8 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=6IquAgfvYmc
 
 
-三立新聞 |youtube||
+三立LIVE新闻 |youtube||
 https://www.youtube.com/watch?v=oZdzzvxTfUY
 
-東森新聞  |youtube||
-https://www.youtube.com/watch?v=2dfAzcDf8Zg
+東森新聞 CH51  |youtube||
+https://www.youtube.com/watch?v=BykxZG6erm8
