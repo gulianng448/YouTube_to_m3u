@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" tvg-id="", 中天新闻台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730012408/ei/mJAdZ7GVMoftir4PrZWa6As/ip/172.183.131.135/id/oIgbl7t0S_w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAUojW2_eZ-xeKQyweI6TCA4Ku1z2iqkdz_BznftOsCZBpc06QW-ZjjLxnNs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326931/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIaTuqN-G4iOnYPohM-o69430kIvjvn5AOs4Lqb2V5-PAiBzcojNcISDOnCDlirY39dHAACyDIhcomOILMiSuQN9JQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", TVBS新聞
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
